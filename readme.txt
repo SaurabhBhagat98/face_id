@@ -7,3 +7,5 @@ create database in mysql: localhost/phpmyadmin
 
 Install Anaconda for windows (Python)
 pip install -r requirements.txt
+
+Admin Password: upasthiti@123
